@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Section 1/springsection1/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 2/springsection2/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 4/springsection4/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3/springsection4/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 3/springsection3/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 7/springsection7/pom.xml" />
+        <option value="$PROJECT_DIR$/Section 6/springsection6/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
